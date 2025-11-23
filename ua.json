@@ -1,0 +1,8 @@
+{
+  "ua_pool": [
+    "kwai-kslite/1.0 (Mobile; iPhone15,2; iOS 14.0)",
+    "kwai-kslite/1.0 (Mobile; Mi 13 Pro; Android 12)",
+    "kwai-kslite/1.1 (Mobile; Redmi K50; Android 13)",
+    "kwai-kslite/2.0 (Mobile; SM-G9980; Android 12)"
+  ]
+}
